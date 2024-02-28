@@ -19,9 +19,9 @@ The source code for our algorithm, as described in the paper, will be released s
 If you find our method and code useful in your research, please consider citing our paper:
 
 ```bibtex
-@article{author2024efficient,
-  title={Efficient Approximation of Earth Mover's Distance Based on Nearest Neighbor Search},
-  author={Author, F. and Contributor, S.},
-  journal={arXiv preprint arXiv:2401.07378},
-  year={2024}
+@misc{2401.07378,
+Author = {Guangyu Meng and Ruyu Zhou and Liu Liu and Peixian Liang and Fang Liu and Danny Chen and Michael Niemier and X. Sharon Hu},
+Title = {Efficient approximation of Earth Mover's Distance Based on Nearest Neighbor Search},
+Year = {2024},
+Eprint = {arXiv:2401.07378},
 }
